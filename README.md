@@ -1,6 +1,8 @@
 Wallpaper-Vomit-Twitter-Bot
 ===========================
 
+Check the bot out here: https://twitter.com/WallpaperVomit
+
 Regurgitates wallpapers posted on 4chan's /wg/ board.
 
 Requirements:
