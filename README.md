@@ -18,6 +18,6 @@ Run main.py first
 It will download all the images from the 10 pages of 4chan /wg/
 It doesn't dig into each thread so it's not a monstrous amount of media download.
 
-Use your keys in twitterwrapper.py and then run it. 
+Use your keys in twitterwrapper.py and then run it. It should post once every 10 minutes (or you can adjust it to another time limit).
 
 Enjoy!
