@@ -40,8 +40,6 @@ if __name__ == "__main__":
 			
 			twitter.update_status_with_media(media=photo)
 			os.remove(randImagePath)
-			c.execute("DELETE FROM Wallpapers WHERE FILENAME=:filen",{"filen":randFilename})
-			conn.commit()
 			
 			sleep_int = 600 #downtime interval in seconds
 			print "Sleeping...\n"
